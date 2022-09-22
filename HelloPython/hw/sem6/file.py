@@ -1,48 +1,25 @@
 # ex1:
-# d = 0.001
-# p = 3.1415926535
-# dTemp = str(d).split('.')
-# print(round(p, len(dTemp[1])))
-# or
-# print(str(round(p, len(dTemp[1])+1))[:-1])
-
+# s = "Напишите программу, удаляющую из текстаабв все слова, содержащие \"абв\""
+# import re
+# fu = lambda s,pattern: re.sub(s,"",pattern)
+# print (fu('[а|б|в]', s) + "\nВторой вариант: " + fu("абв", s))
 
 # ex2:
-# def primfacs(n):
-#    i = 2
-#    primfac = []
-#    while i * i <= n:
-#        while n % i == 0:
-#            primfac.append(i)
-#            n = n / i
-#        i = i + 1
-#    if n > 1:
-#        primfac.append(round(n))
-#    return primfac
-# 
-# print(primfacs(20))
+# myList = [1, 1, 2, 3, 4, 5, 5]
+
+# def fu(num):
+#     i = 0   
+#     for y in myList:
+#         if num == y:
+#             i += 1
+#             continue
+#     if i != 2:
+#         return True
+                     
+# print(list(filter(fu, myList)))
 
 
 # ex3:
-# from operator import index
-# 
-# myList = [1, 1, 2, 3, 4, 5, 5]
-# resList = []
-# mark = 0
-# for i in myList:
-#     for y in range(myList.index(i)+1, len(myList)):
-#         if myList[y] == i:
-#             mark = 1
-#             break        
-#     if mark == 1:
-#         mark = 0
-#         continue
-#     resList.append(i)
-# 
-# print(resList)
-
-
-# ex4, ex5:
 # from random import randint
 # import itertools
 # import re
