@@ -10,7 +10,7 @@ def ReadOrWritePhoneNumber():
             filename = input('Enter file name, format is "file.csv": ')
             ctr.WriteNumber(name, phone, filename)
         elif val == 'R':
-            choise = input('Do you want see all dir(Enter \'A\') or one name number(Enter \'O\'): ')
+            choise = input('Do you want see all contacts(Enter \'A\') or one number(Enter \'O\'): ')
             if choise == 'O':
                 name = input('Enter name, format is "Ilya": ')
                 filename = input('Enter file name, format is "file.csv": ')
