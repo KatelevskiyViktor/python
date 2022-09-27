@@ -1,4 +1,4 @@
-
+import shutil
 
 def WriteInDB(name, phone, filename):
     with open(filename, 'a') as file:
@@ -14,3 +14,6 @@ def ReadFromDBOne(name, filename):
 def ReadFromDBAll(name, filename):
     with open(filename, 'r') as file:
         return list(file)
+
+def ImExToDB(filenameFrom, filenameTo):
+    shutil.copyfile(filenameFrom, filenameTo)
