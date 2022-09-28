@@ -2,8 +2,6 @@ import model as m
 import re
 
 
-
-
 def WriteNumber(name, phone, filename):
     m.WriteInDB(name, phone, filename)
 
@@ -18,3 +16,5 @@ def ReadNumber(filename, name = ''):
 def ImportExport(filenameFrom, filenameTo):
     m.ImExToDB(filenameFrom, filenameTo)
     
+def DelContact(name, filename):
+    m.DelFromDB(name, filename)

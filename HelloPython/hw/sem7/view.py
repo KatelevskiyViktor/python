@@ -2,7 +2,7 @@ import controller as ctr
 
 def ReadOrWritePhoneNumber():
     while True:
-        val = input('Hi!Do you want to write (please enter W), or read(R)\n, or import\export(I): ')
+        val = input('Hi!Select: write number (enter W),\nread(R),\nimport\export(I),\ndel(D),\nexit(Q): ')
 
         if val == 'W':
             phone = input('Enter number, format is "+79696996969": ')
@@ -25,4 +25,12 @@ def ReadOrWritePhoneNumber():
             filenameTo = input('Enter file name, format is "file.csv": ')
             ctr.ImportExport(filenameFrom, filenameTo)
             print('Copied!')
+        elif val == 'D':
+            name = input('Enter name, format is "Ilya": ')
+            filename = input('Enter file name, format is "file.csv": ')
+            ctr.DelContact(name, filename)
+            print('Contaсt was deleted!')
+        else:
+            print('Goodbye=****!')
+            break
 
