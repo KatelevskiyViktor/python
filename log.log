@@ -1,0 +1,14 @@
+2022-10-01 00:26:30,831 - WriteNumber - INFO - Add contact: name-{name}, phone-{phone}, filename-{filename}
+2022-10-01 00:27:35,677 - WriteNumber - INFO - Add contact: name-Ilya, phone-+79696996969, filename-file.csv
+2022-10-01 00:28:58,125 - WriteNumber - INFO - Add contact: name-'Ilya', phone-'+79696996969', filename-'file.csv'
+2022-10-01 00:35:39,777 - ReadNumber - INFO - See contact: name-'Ilya', phone-'Ily79696996969
+', filename-'file.csv'
+2022-10-01 00:37:06,055 - ReadNumber - INFO - See contact: name-'Ilya', phone-'+79696996969', filename-'file.csv'
+2022-10-01 00:37:41,880 - ReadNumber - INFO - See contact: name-'Ilya', phone-'+79696996969', filename-'file.csv'
+2022-10-01 00:38:30,924 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:38:30,924 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:39:01,588 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:39:01,588 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:39:01,588 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:39:37,269 - ReadNumber - INFO - See all contacts: filename-'file.csv'
+2022-10-01 00:52:15,276 - finction is: WriteNumber - INFO - Add contact: name-'Lel'', phone-'+79509999999', filename-'file.csv'
