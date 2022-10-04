@@ -1,7 +1,3 @@
-from isOdd import isOdd
-
-print(isOdd(1)) 
-print(isOdd(5)) 
-
-print(isOdd(0)) 
-print(isOdd(4)) 
+# ex1:
+import krestiki_noliki.game as kn
+kn.main()

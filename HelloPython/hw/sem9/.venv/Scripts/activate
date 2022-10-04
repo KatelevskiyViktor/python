@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="G:\Мой диск\Учёба к GB\python\HelloPython\hw\sem9\.venv"
+VIRTUAL_ENV="D:\study_in_gb\python\HelloPython\hw\sem9\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
