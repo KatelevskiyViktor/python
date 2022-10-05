@@ -2,7 +2,7 @@
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import bot_commands as bc
 
-app = ApplicationBuilder().token("5222098087:AAELUd7AeWA7Ce8msHmSe8kxoTDYbmMNN58").build()
+app = ApplicationBuilder().token("your_key").build()
 
 app.add_handler(CommandHandler("hi", bc.hi))
 app.add_handler(CommandHandler("add", bc.add_contact))
