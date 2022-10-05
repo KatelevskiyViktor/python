@@ -12,3 +12,6 @@
 2022-10-01 00:39:01,588 - ReadNumber - INFO - See all contacts: filename-'file.csv'
 2022-10-01 00:39:37,269 - ReadNumber - INFO - See all contacts: filename-'file.csv'
 2022-10-01 00:52:15,276 - finction is: WriteNumber - INFO - Add contact: name-'Lel'', phone-'+79509999999', filename-'file.csv'
+2022-10-04 16:49:18,085 - finction is: WriteNumber - INFO - Add contact: name-'viktor', phone-'+7898989889', filename-'my_c.csv'
+2022-10-05 11:41:16,292 - finction is: ReadNumber - INFO - See contact: name-'viktor', phone-'+7898989889', filename-'my_c.csv'
+2022-10-05 11:52:22,783 - finction is: ReadNumber - INFO - See all contacts: filename-'my_c.csv'
