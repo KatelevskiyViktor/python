@@ -1,0 +1,52 @@
+2023-02-09 12:22:05,809 - finction is: WriteNumber - INFO - Add note: title-'My', msg-'MY first note', dateCreate-'22.22.20'
+2023-02-09 12:26:23,192 - finction is: WriteNumber - INFO - Add note: title-'hf', msg-'df', dateCreate-'33.33.33'
+2023-02-09 12:28:26,399 - finction is: WriteNumber - INFO - Add note: title-'er', msg-'er', dateCreate-'222222'
+2023-02-09 12:44:17,462 - finction is: WriteNumber - INFO - Add note: title-'er', msg-'er', dateCreate-'222222'
+2023-02-09 12:44:54,958 - finction is: WriteNumber - INFO - Add note: title-'rterte', msg-'ertetrerter', dateCreate-'333333'
+2023-02-09 12:44:54,958 - finction is: WriteNumber - INFO - Add note: title-'rterte', msg-'ertetrerter', dateCreate-'333333'
+2023-02-09 20:27:51,639 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:28:27,678 - finction is: ReadNotes - INFO - See note: title-'rterte', ID-'rterte'
+2023-02-09 20:28:27,678 - finction is: ReadNotes - INFO - See note: title-'rterte', ID-'rterte'
+2023-02-09 20:29:24,501 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:29:24,501 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:29:24,501 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:30:55,077 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:30:55,077 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:30:55,077 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:30:55,077 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:09,285 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:09,285 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:09,285 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:09,285 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:09,285 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-09 20:31:22,133 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 09:54:47,392 - finction is: DelNote - INFO - Delete note: title-'title'
+2023-02-10 09:55:00,409 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 10:00:12,104 - finction is: DelNote - INFO - Delete note: title-'er'
+2023-02-10 10:00:12,104 - finction is: DelNote - INFO - Delete note: title-'er'
+2023-02-10 10:00:21,144 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 10:00:21,144 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 10:00:45,112 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 10:00:45,112 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 10:00:45,112 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 12:21:42,430 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rterte'
+2023-02-10 12:22:39,149 - finction is: EditNote - INFO - Edit note: title-'['3', 'rt', 'ertetrerter', '333333', '333333', '']'
+2023-02-10 12:24:35,109 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rterte'
+2023-02-10 12:25:09,421 - finction is: EditNote - INFO - Edit note: title-'rt'
+2023-02-10 12:25:56,598 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rterte'
+2023-02-10 12:26:15,302 - finction is: EditNote - INFO - Edit note: title-'rt'
+2023-02-10 12:26:53,677 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rterte'
+2023-02-10 12:26:53,677 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rterte'
+2023-02-10 12:27:59,501 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'rt'
+2023-02-10 12:28:13,902 - finction is: EditNote - INFO - Edit note: title-'rtur'
+2023-02-10 12:30:11,405 - finction is: EditNoteRead - INFO - Edit note, reading: note title-''e'rfvvfv'
+2023-02-10 12:30:11,405 - finction is: EditNoteRead - INFO - Edit note, reading: note title-''e'rfvvfv'
+2023-02-10 12:30:37,837 - finction is: EditNote - INFO - Edit note: title-'e'rfvv'
+2023-02-10 12:30:37,837 - finction is: EditNote - INFO - Edit note: title-'e'rfvv'
+2023-02-10 12:32:56,397 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'vr'
+2023-02-10 12:33:17,220 - finction is: EditNote - INFO - Edit note: title-'gorrra'
