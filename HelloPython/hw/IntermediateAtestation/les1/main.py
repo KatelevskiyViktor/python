@@ -3,5 +3,5 @@ import view as v
 try:
     v.ReadOrWriteNotes()
 except:
-    print('You entered something wrong, please try again.')
+    print('\n!!!You entered something wrong, please try again!!!\n')
     v.ReadOrWriteNotes()
