@@ -50,3 +50,5 @@
 2023-02-10 12:30:37,837 - finction is: EditNote - INFO - Edit note: title-'e'rfvv'
 2023-02-10 12:32:56,397 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'vr'
 2023-02-10 12:33:17,220 - finction is: EditNote - INFO - Edit note: title-'gorrra'
+2023-02-10 12:43:01,413 - finction is: ReadNotes - INFO - See all notes or all notes by date
+2023-02-10 12:51:26,827 - finction is: EditNoteRead - INFO - Edit note, reading: note title-'dff'

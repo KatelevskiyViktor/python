@@ -1,3 +1,6 @@
 import view as v
 
-v.ReadOrWriteNotes()
+try:
+    v.ReadOrWriteNotes()
+except:
+    v.ReadOrWriteNotes()

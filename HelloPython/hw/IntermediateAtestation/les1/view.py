@@ -7,7 +7,7 @@ def ReadOrWriteNotes():
         if val == 'W':
             title = input('Enter title: ')
             msg = input('Enter message: ')
-            dateCreate = input('Enter date, format is "dd.mm.yy": ')
+            dateCreate = input('Enter date, format is "dd.mm.yyyy": ')
             ctr.WriteNotes(title, msg, dateCreate)
         elif val == 'R':
             choise = input('Do you want see all notes(Enter \'A\')\nor one note(Enter \'O\')\nor note by date(Enter \'D\'): ')

@@ -17,7 +17,6 @@ def WriteNotes(title, msg, dateCreate):
     cutLastNote = laseNote.split(';')
     m.WriteInDB(int(cutLastNote[0]) + 1, title, msg, dateCreate)
 
-
 def ReadNotes(title, marker):
     if marker == 'O':
         selectedNote = m.ReadFromDBOne(title)
